@@ -1,0 +1,57 @@
+[
+    {
+      "id": 1,
+      "question": "Quem dirigiu o filme 'A Origem' (Inception)?",
+      "options": [
+        "Christopher Nolan",
+        "Steven Spielberg",
+        "Quentin Tarantino",
+        "Martin Scorsese"
+      ],
+      "answer": "Christopher Nolan"
+    },
+    {
+      "id": 2,
+      "question": "Qual foi o primeiro filme totalmente feito com animação CGI?",
+      "options": [
+        "Toy Story (1995)",
+        "Shrek (2001)",
+        "Tron (1982)",
+        "Jurassic Park (1993)"
+      ],
+      "answer": "Toy Story (1995)"
+    },
+    {
+      "id": 3,
+      "question": "Qual filme deteve o recorde de maior bilheteria antes de Avatar?",
+      "options": [
+        "Titanic (1997)",
+        "E.T. (1982)",
+        "Star Wars: Episódio IV (1977)",
+        "Jurassic Park (1993)"
+      ],
+      "answer": "Titanic (1997)"
+    },
+    {
+      "id": 4,
+      "question": "Qual ator interpretou Neo em 'Matrix'?",
+      "options": [
+        "Keanu Reeves",
+        "Brad Pitt",
+        "Tom Cruise",
+        "Leonardo DiCaprio"
+      ],
+      "answer": "Keanu Reeves"
+    },
+    {
+      "id": 5,
+      "question": "Qual filme ganhou o primeiro Oscar de Melhor Filme?",
+      "options": [
+        "Asas (1927)",
+        "Cidadão Kane (1941)",
+        "E o Vento Levou (1939)",
+        "Casablanca (1942)"
+      ],
+      "answer": "Asas (1927)"
+    }
+  ]

@@ -1,0 +1,42 @@
+[
+    {
+      "id": 1,
+      "question": "Qual linguagem é considerada a mais usada para Machine Learning?",
+      "options": ["Python", "Java", "C++", "Ruby"],
+      "answer": "Python"
+    },
+    {
+      "id": 2,
+      "question": "Quem fundou a Microsoft?",
+      "options": ["Steve Jobs", "Bill Gates e Paul Allen", "Mark Zuckerberg", "Larry Page"],
+      "answer": "Bill Gates e Paul Allen"
+    },
+    {
+      "id": 3,
+      "question": "O que a sigla HTTP significa?",
+      "options": [
+        "HyperText Transfer Protocol",
+        "High-Level Text Transmission Process",
+        "Hyperlink Text Type Protocol",
+        "Hardware Testing Tool Package"
+      ],
+      "answer": "HyperText Transfer Protocol"
+    },
+    {
+      "id": 4,
+      "question": "Qual foi o primeiro computador programável da história?",
+      "options": [
+        "ENIAC (1946)",
+        "Z3 de Konrad Zuse (1941)",
+        "IBM 701 (1952)",
+        "Apple I (1976)"
+      ],
+      "answer": "Z3 de Konrad Zuse (1941)"
+    },
+    {
+      "id": 5,
+      "question": "Em que ano foi criado o Linux?",
+      "options": ["1985", "1991", "1999", "2005"],
+      "answer": "1991"
+    }
+  ]
